@@ -102,6 +102,7 @@ The DMAIL 2026 Program Committee included 18 people from academia and industry, 
 - Mi-Young Kim, Department of Computing Science, U. of Alberta, Canada
 - Jieh-Sheng Lee, National Yang Ming Chiao Tung University School of Law, Taiwan
 - Karolina Naranjo-Velasco, University of Virginia, United States
+- Manuel Fiorelli, Department of Enterprise Engineering, Tor Vergata University of Rome, Italy
 - Pedro Miguel Freitas, Universidade Católica Portuguesa, Portugal
 - Wachara Fungwacharakorn, Center for Juris-Informatics, ROIS-DS, Japan
 - Colin Doyle, Loyola Law School, Los Angeles, United States
