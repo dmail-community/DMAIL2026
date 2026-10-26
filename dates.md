@@ -7,9 +7,8 @@ order: 3
 
 # **Key Dates**
 
-- **Workshop paper submission deadline:** ~~September 30, 2026~~
-- **Workshop paper submission deadline extension:** October 15, 2026
-- **Workshop paper notification deadline:** October 25, 2026
+- **Workshop paper submission deadline  (extended):** ~~September 30, 2026~~ October 15, 2026
+- **Workshop paper notification deadline (extended):** ~~October 25, 2026~~ November 1, 2026
 - **Camera-ready submission deadline:** November 15, 2026
 - **Workshop date:** December 17, 2026 (tentative)
 
