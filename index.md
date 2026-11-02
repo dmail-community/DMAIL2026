@@ -12,6 +12,12 @@ permalink: /
   </div>
 </section>
 
+# **Announcements**
+
+- **[November 2026]** The list of accepted papers is now available! Please see the [Accepted Papers](https://dmail-community.github.io/DMAIL2026/accepted-papers/) page for details.
+
+
+
 Welcome to **DMAIL 2026: The Second International Workshop on Data Mining and AI for Law**, a workshop proposal for [IEEE BigData 2026](https://bigdataieee.org/BigData2026/).
 
 Building on the success of [DMAIL 2025](https://dmail-workshop.github.io/DMAIL2025/) at IEEE ICDM 2025, DMAIL 2026 aims to establish an interdisciplinary forum for scalable, trustworthy, and explainable AI techniques for legal applications.
