@@ -14,6 +14,7 @@ permalink: /
 
 # **Announcements**
 
+- **[November 2026] Registration Now Open!** Authors of accepted DMAIL 2026 papers are requested to complete their registration for IEEE BigData 2026 by **November 20, 2026 (DMAIL internal deadline)** to allow the organizing team sufficient time for administrative processing. **[Register Here](https://web.cvent.com/event/ea01f8b2-6760-4c81-babc-4c44cc93aeb9/summary)**.
 - **[November 2026]** The list of accepted papers is now available! Please see the [Accepted Papers](https://dmail-community.github.io/DMAIL2026/accepted-papers/) page for details.
 
 
