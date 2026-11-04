@@ -7,7 +7,7 @@ order: 2
 
 # Accepted Papers
 
-The following 13 papers have been accepted to DMAIL 2026.
+The following 13 papers have been accepted to DMAIL 2026:
 
 1. **From Civic Laws to Executable Decisions: Auditing Delivery-Robot Constraints Against Civic Evidence**  
    Saumit Korada
