@@ -7,7 +7,7 @@ order: 2
 
 # Accepted Papers
 
-The following 12 papers have been accepted to DMAIL 2026.
+The following 13 papers have been accepted to DMAIL 2026.
 
 1. **From Civic Laws to Executable Decisions: Auditing Delivery-Robot Constraints Against Civic Evidence**  
    Saumit Korada
@@ -44,3 +44,6 @@ The following 12 papers have been accepted to DMAIL 2026.
 
 12. **Retrieval Augmented Legal Reasoning for FIR to PPC Section Recommendation in Low Resource Urdu Legal NLP**  
     Malik Ahsan Ali, Sidra Tahir, and Tafseer Ahmed
+
+13. **From Distress to Response: Mapping Legal Help Seeking and Community Support Gaps on r/LegalAdviceIndia**  
+    Ansh Sharma, Sumanth Kamath, Vishnu Prasad Pai, William L. Romine, Tanvi Banerjee, and Ramakrishna Mundugar
