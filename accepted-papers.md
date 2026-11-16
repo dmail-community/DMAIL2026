@@ -7,7 +7,7 @@ order: 2
 
 # Accepted Papers
 
-The following 12 papers have been accepted to DMAIL 2026
+The following 11 papers have been accepted to DMAIL 2026
 
 1. **From Civic Laws to Executable Decisions: Auditing Delivery-Robot Constraints Against Civic Evidence**  
    Saumit Korada
@@ -33,14 +33,11 @@ The following 12 papers have been accepted to DMAIL 2026
 8. **NAAFN@ALQAC 2026: Agentic Legal Outcome Prediction through Adaptive Retrieval and Multi-Perspective Reasoning**  
    Hai-An Nguyen, Ha-Phan Nguyen, Bao-Ngan Le, Duc-Huy Le, Tan-Minh Nguyen, Thi-Hai-Yen Vuong, and Xuan-Hieu Phan
 
-9. **Can LLMs Pass the Turkish Law Exam?**  
-   M. Mikail Demir
-
-10. **Separating Reading from Deciding: Neuro-Symbolic Verification of LLM Answers on Vietnamese Traffic Law**  
+9. **Separating Reading from Deciding: Neuro-Symbolic Verification of LLM Answers on Vietnamese Traffic Law**  
     Hien Van Dam and Ha Thanh Nguyen
 
-11. **Domain-Adaptation through Synthetic Data: Fine-Tuning Large Language Models for German Law**  
+10. **Domain-Adaptation through Synthetic Data: Fine-Tuning Large Language Models for German Law**  
     Muhammad Rehan Khalid, Ali Hamza Bashir, Kostadin Cvejoski, Jule Berghaus, David Berghaus, Armin Berger, Rafet Shifa, Sandra Halscheidt, Jana Birr, and Christian Temath
 
-12. **Retrieval Augmented Legal Reasoning for FIR to PPC Section Recommendation in Low Resource Urdu Legal NLP**  
+11. **Retrieval Augmented Legal Reasoning for FIR to PPC Section Recommendation in Low Resource Urdu Legal NLP**  
     Malik Ahsan Ali, Sidra Tahir, and Tafseer Ahmed
